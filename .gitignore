@@ -20,3 +20,6 @@ build/
 
 .DS_Store
 Thumbs.db
+
+# MediaPipe model
+*.task
